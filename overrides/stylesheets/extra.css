@@ -5,3 +5,8 @@
     margin: 0 auto;
     box-shadow: var(--md-shadow-z2);
 }
+
+/*图片圆角*/
+.img-rounded {
+    border-radius: 5px;
+}

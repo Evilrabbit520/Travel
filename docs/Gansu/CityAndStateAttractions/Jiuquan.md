@@ -142,7 +142,7 @@
     
     4月1日-11月30日 08:00-18:00开放
 
-    [:octicons-arrow-right-24: 详细信息](#)
+    [:octicons-arrow-right-24: 详细信息](../../AttractionGuide/Dunhuang_Mogaoku)
 
 -   :palm_tree:{ .lg .middle } __莫高窟__
 

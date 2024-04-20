@@ -86,8 +86,8 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-# extra_javascript:
-  # - javascripts/extra.js
+extra_javascript:
+  - javascripts/extra.js
 
 # Copyright
 copyright: Copyright &copy; 2024 Wang Yujia
