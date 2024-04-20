@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+**/.idea
+
+# mkdocs files
+.cache/
+
+# imgSrc
+/imgSrc
+
+# build
+/build
+/site
+/utils
+
+# test script
+test.sh
