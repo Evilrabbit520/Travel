@@ -6,6 +6,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
+    - navigation.tabs
     - content.action.edit
     - navigation.indexes
     - content.tabs.link
@@ -55,6 +56,13 @@ edit_uri: tree/main/docs
 version: 1.0.0
 
 extra:
+  top_menu:
+    - label: Home
+      href: /
+    - label: About Us
+      href: /about
+    - label: Contact
+      href: /contact
   alternate:
     - name: 中文
       link: /
@@ -94,9 +102,13 @@ copyright: Copyright &copy; 2024 Wang Yujia
 
 # Page tree
 nav:
-- 甘肃省 &nbsp; Gansu:
+- 首页: /index.html
+- 旅行攻略:
+  - 甘肃省 &nbsp; Gansu:
     # [icon: material/book-open-outline]
     - Gansu/index.md
     - 1 &nbsp; 市州景点: Gansu/CityAndStateAttractions/index.md
     - 2 &nbsp; 景点攻略: Gansu/howToUse.md
     - 3 &nbsp; 路线攻略: Gansu/summary.md
+# - 参与编写: /index.html
+# - 关于项目: /index.html
