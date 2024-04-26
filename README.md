@@ -21,7 +21,7 @@
 
 官网地址：
 
-- Vercel:[travel.yujiay.wang](travel.yujiay.wang)
+- Vercel:[travel.yujiay.wang](https://travel.yujiay.wang/)
 - 国内：暂未上线
 
 ## 贡献
