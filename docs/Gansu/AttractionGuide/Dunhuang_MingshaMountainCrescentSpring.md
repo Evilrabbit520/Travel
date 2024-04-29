@@ -1,6 +1,6 @@
 # 鸣沙山月牙泉 Mingsha Mountain And Crescent Spring
 
-![MingshaMountainCrescentSpring](images/MingshaMountainCrescentSpring/MingshaMountainCrescentSpring.jpg){ class="img-AttractionsBanner" }
+![MingshaMountainCrescentSpring](images/Dunhuang_MingshaMountainCrescentSpring/MingshaMountainCrescentSpring.jpg){ class="img-AttractionsBanner" }
 
 !!! info inline end "时效性提示"
     
@@ -37,7 +37,7 @@
 - 导游：持导游证(领队)、身份证、带团计划书(派团单) 三证合一方可享受导游免票\免费。
 - 陇原人才服务卡：陇原人才服务卡:持陇原人才服务卡证及身份证同时出示可享受免票\免费；注：A卡可随行4人，B卡可随行3人，可随行2人，D卡可随行1人。
 - 酒泉地区、嘉峪关市市民优惠：1.敦煌市民凭本人身份证原件享受免票，敦煌的在校学生购票须出示身份证或户口簿； 2.青海油田基地居民须同时出示蓝皮户口簿和身份证享受免票，户口迁出者不享受优惠政策； 3.来敦常住投资者、创业者凭本人身份证和居住证原件享受免票\免费； 4.酒泉七县市、嘉峪关两市市民凭个人身份证享受免票\免费。
-- 儿童：1.2米(不含)以下，免费
+- 儿童：1.2米(不含)以下，免费。
 
 补充说明：
 

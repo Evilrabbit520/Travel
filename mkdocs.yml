@@ -3,7 +3,9 @@ site_name: Travel
 theme:
   name: material
   custom_dir: overrides
-  icon:
+  logo: assets/images/icon.png
+  favicon: assets/images/icon.png
+  icon: 
     repo: fontawesome/brands/github
   features:
     - navigation.tabs
@@ -108,7 +110,7 @@ nav:
     # [icon: material/book-open-outline]
     - Gansu/index.md
     - 1 &nbsp; 市州景点: Gansu/CityAndStateAttractions/index.md
-    - 2 &nbsp; 景点攻略: Gansu/howToUse.md
-    - 3 &nbsp; 路线攻略: Gansu/summary.md
+    - 2 &nbsp; 景点攻略: Gansu/AttractionGuide/index.md
+    - 3 &nbsp; 路线攻略: Gansu/RouteGuide/index.md
 # - 参与编写: /index.html
 # - 关于项目: /index.html
