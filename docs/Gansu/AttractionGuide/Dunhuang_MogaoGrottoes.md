@@ -1,6 +1,6 @@
 # 莫高窟 Mogao Grottoes
 
-![MogaoGrottoes](images/MogaoGrottoes/MogaoGrottoes.jpg){ class="img-AttractionsBanner" }
+![MogaoGrottoes](images/Dunhuang_MogaoGrottoes/MogaoGrottoes.jpg){ class="img-AttractionsBanner" }
 
 !!! info inline end "时效性提示"
     

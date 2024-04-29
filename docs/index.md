@@ -65,7 +65,7 @@ hide:
 
     诗画浙江
 
-    [:octicons-arrow-right-24: 出发前往](#)
+    [:octicons-arrow-right-24: 出发前往](Zhejiang/index.md)
 
 -   **甘肃省**
 
@@ -73,7 +73,7 @@ hide:
 
     交响丝路，如意甘肃
 
-    [:octicons-arrow-right-24: 出发前往](#)
+    [:octicons-arrow-right-24: 出发前往](Gansu/index.md)
 
 -   **江苏省**
 
