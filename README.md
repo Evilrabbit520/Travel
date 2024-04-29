@@ -22,10 +22,11 @@
 官网地址：
 
 - Vercel:<a href="https://travel.yujiay.wang/">https://travel.yujiay.wang/</a>
-- 国内：暂未上线
 
 ## 贡献
 
 本项目涉及内容详细，工作较繁琐，仍在持续更新中。欢迎您参与本项目，介绍您的家乡之美，为又帅又牛的开发工程师们打造一个优质的旅行指南。
+
+各省份工程师请尽情发挥脑洞，定制自己家乡的页面进行提交！
 
 欢迎您提出宝贵意见和建议，如有任何问题请提交 [Issues](https://github.com/Evilrabbit520/Travel/issues) 或微信联系：`Aprilhare_wjn` 。
